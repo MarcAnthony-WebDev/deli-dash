@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Mars Deli",
+      "address": "44-47 Kissena Blvd, Flushing, NY 11355",
+      "description": "Fast sandwiches and wraps",
+      "phone": "(718) 888-7658",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPO-606aKooPDkRM6zjIXnGE7rephBZyCklB7ve=s1360-w1360-h1020-rw"
+    },
+    {
+      "name": "Danny's Deli",
+      "address": "59-24 Kissena Blvd, Flushing, NY 11355",
+      "description": "Sandwiches, wraps, and burgers",
+      "phone": "(718) 886-8425",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOSu2ZXVtEQIMM7yyn-Y-psgjROW7AHnswdefSK=s1360-w1360-h1020-rw"
+    },
+    {
+      "name": "Neel Deli",
+      "address": "13711 Northern Blvd, Flushing, NY 11354",
+      "description": "Convenience store and deli",
+      "phone": "(718) 445-2162",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOYeoWW73HL4bIiPqbEAWw-BRtjNwyBr8NLxxgZ=s1360-w1360-h1020-rw"
+    },
+    {
+      "name": "Bowne Park Deli",
+      "address": "15009 Bayside Ave, Flushing, NY 11354",
+      "description": "Fresh sandwiches and desserts",
+      "phone": "(718) 353-3955",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNRBn8MLZupAGBaFdMn5irrfnlN_xseMLFBfcAX=s1360-w1360-h1020-rw"
+    },
+    {
+      "name": "Sandwich King",
+      "address": "146-25 Northern Blvd, Flushing, NY 11354",
+      "description": "Fresh salads and sandwiches",
+      "phone": "(718) 445-2162",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNeHB1a27QhFP_GeFpuB8AwIjgSEi7j94swPHvG=s1360-w1360-h1020-rw"
+    },
+    {
+      "name": "Super Deli",
+      "address": "144-10 Northern Blvd, Flushing, NY 11354",
+      "description": "Hot breakfast and cold cuts",
+      "phone": "(718) 555-1234",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNFWRk1ScyGZ3Qp325GaglI_72mNQAUXGnjQ_h2=s1360-w1360-h1020-rw"
+    }
+  ]
+  
