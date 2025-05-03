@@ -21,7 +21,7 @@ export default function Navbar({ onSearch }: { onSearch: (query: string) => void
         className="bg-neutral-700 text-white placeholder-gray-400 border border-neutral-600 rounded px-4 py-2 w-1/2"
       />
 
-      <button className="bg-slate-600 text-neutral-300 px-4 py-2 rounded hover:bg-neutral-500">
+      <button className="bg-slate-600 text-neutral-300 px-4 py-2 rounded hover:bg-neutral-500 cursor-pointer transition-colors duration-300">
         Login
       </button>
     </nav>

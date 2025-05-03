@@ -48,7 +48,7 @@ export default function MealsSection({ meals }: MealsSectionProps) {
                 <p className="text-neutral-400 text-sm">{meal.price}</p>
                 <div className="mt-auto">
                   <button
-                    className="mt-3 w-full bg-green-600 hover:bg-green-500 text-white py-2 rounded"
+                    className="mt-3 w-full cursor-pointer transition-colors duration-300 bg-green-600 hover:bg-green-500 text-white py-2 rounded"
                     onClick={handleAddToCart}
                   >
                     Add to Cart
