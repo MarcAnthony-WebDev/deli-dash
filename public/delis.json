@@ -1,18 +1,42 @@
 [
     {
-      "name": "Mars Deli",
-      "address": "44-47 Kissena Blvd, Flushing, NY 11355",
-      "description": "Fast sandwiches and wraps",
-      "phone": "(718) 888-7658",
-      "image": "https://lh3.googleusercontent.com/p/AF1QipPO-606aKooPDkRM6zjIXnGE7rephBZyCklB7ve=s1360-w1360-h1020-rw"
-    },
-    {
-      "name": "Danny's Deli",
-      "address": "59-24 Kissena Blvd, Flushing, NY 11355",
-      "description": "Sandwiches, wraps, and burgers",
-      "phone": "(718) 886-8425",
-      "image": "https://lh3.googleusercontent.com/p/AF1QipOSu2ZXVtEQIMM7yyn-Y-psgjROW7AHnswdefSK=s1360-w1360-h1020-rw"
-    },
+        "name": "Mars Deli",
+        "address": "44-47 Kissena Blvd, Flushing, NY 11355",
+        "description": "Fast sandwiches and wraps",
+        "phone": "(718) 888-7658",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPO-606aKooPDkRM6zjIXnGE7rephBZyCklB7ve=s1360-w1360-h1020-rw",
+        "meals": [
+          {
+            "name": "Philly Cheesesteak",
+            "image": "https://static01.nyt.com/images/2024/02/06/multimedia/KD-philly-cheesesteak-mhqc/KD-philly-cheesesteak-mhqc-superJumbo.jpg",
+            "price": "$9.99"
+          },
+          {
+            "name": "Turkey Club",
+            "image": "https://www.seriouseats.com/thmb/HliR9y_Dqf3zbBR86k9Aie2uEnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20231204-SEA-TurkeyClub-FredHardy-01-6679650f138a4f419e330a8a0f31576d.jpg",
+            "price": "$35.99"
+          }
+        ]
+      },
+      {
+        "name": "Danny's Deli",
+        "address": "59-24 Kissena Blvd, Flushing, NY 11355",
+        "description": "Sandwiches, wraps, and burgers",
+        "phone": "(718) 886-8425",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOSu2ZXVtEQIMM7yyn-Y-psgjROW7AHnswdefSK=s1360-w1360-h1020-rw",
+        "meals": [
+          {
+            "name": "Bacon Egg & Cheese",
+            "image": "https://www.biteoffox.com/recipe/99713f6a-2967-4a4c-955d-326f33a12830.jpg?d=1408x1120",
+            "price": "$5.99"
+          },
+          {
+            "name": "Chopped Cheese",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Chopped_cheese_Crotona_Bronx.jpg/1200px-Chopped_cheese_Crotona_Bronx.jpg",
+            "price": "$7.49"
+          }
+        ]
+      },
     {
       "name": "Neel Deli",
       "address": "13711 Northern Blvd, Flushing, NY 11354",

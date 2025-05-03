@@ -42,7 +42,7 @@ type Deli = {
         </div>
   
         {delis.length > 3 && (
-          <div className="flex justify-center pb-10">
+          <div className="flex justify-center">
             <button
               onClick={() => setShowAll(!showAll)}
               className="bg-neutral-600 text-neutral-300 px-6 py-2 rounded hover:bg-neutral-500"
